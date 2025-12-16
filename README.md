@@ -5,7 +5,7 @@ This project seeks to analyze flight delays, arrivals, departures, and cancellat
 - Evaluate cancellation trends across airlines.
 - Compare the performance of major airlines and low-cost carriers.
 - Analyze correlations between airport traffic and flight delays during these phases.
-By addressing these questions, the project aims to uncover key insights into how COVID-19 impacted flight operations at BNA and surrounding airports, providing a better understanding of airline performance and passenger experience.
+By addressing these questions, the project aims to uncover key insights into how COVID-19 impacted flight operations at BNA , providing a better understanding of airline performance and passenger experience.
 
 ## Table of Contents
 
