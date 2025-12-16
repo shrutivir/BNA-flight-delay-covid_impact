@@ -47,10 +47,7 @@ The project aims to combine practical industry experience with data analysis ski
 ### Data Cleaning & Normalization
 
 - The original datasets contained null values and inconsistent formatting.  
-- Columns removed before analysis:
-  - `Tail Number`
-  - `Taxi-Out Time`
-  - `Wheels-Off Time`  
+- Columns removed. 
 - BOM (Byte Order Mark) issues in the CSV files were handled using Python (`utf-8-sig` encoding).  
 - A new column was created mapping **airport codes** to their corresponding **city and state** for better readability.  
 - All three datasets (Departures, Arrivals, and Cancellations) were combined in a single Jupyter notebook for unified analysis.
