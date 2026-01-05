@@ -1,0 +1,303 @@
+Origin City,Airlines,COVID Phase,Avg Arrival Delay (min),Total Flights
+"Atlanta, GA",Delta Airlines,During-COVID,-1.6639634019546683,4809
+"Atlanta, GA",Delta Airlines,Post-COVID,4.249363586054233,9035
+"Atlanta, GA",Delta Airlines,Pre-COVID,1.2892411277879086,7129
+"Atlanta, GA",Southwest Airlines,During-COVID,-0.9922437673130194,1805
+"Atlanta, GA",Southwest Airlines,Post-COVID,2.492706645056726,2468
+"Atlanta, GA",Southwest Airlines,Pre-COVID,0.6436274509803922,2040
+"Austin, TX",American Airlines,Post-COVID,55.94736842105263,19
+"Austin, TX",Delta Airlines,Post-COVID,22.0,1
+"Austin, TX",Southwest Airlines,During-COVID,-0.404408457040036,2223
+"Austin, TX",Southwest Airlines,Post-COVID,3.594038696182674,5737
+"Austin, TX",Southwest Airlines,Pre-COVID,1.8262734584450402,1865
+"Austin, TX",Spirit Airlines,During-COVID,-10.0,12
+"Baltimore, MD",Southwest Airlines,During-COVID,-0.2836706210746685,2866
+"Baltimore, MD",Southwest Airlines,Post-COVID,5.292118317104538,5443
+"Baltimore, MD",Southwest Airlines,Pre-COVID,1.7625691604522493,4157
+"Baltimore, MD",Spirit Airlines,During-COVID,-5.183206106870229,131
+"Baltimore, MD",Spirit Airlines,Pre-COVID,-4.253012048192771,83
+"Birmingham, AL",Southwest Airlines,Post-COVID,1.8518518518518519,54
+"Boston, MA",Delta Airlines,Post-COVID,-1.0259562841530054,1464
+"Boston, MA",Delta Airlines,Pre-COVID,-5.0,2
+"Boston, MA",JetBlue Airways,During-COVID,-5.833110814419226,749
+"Boston, MA",JetBlue Airways,Post-COVID,11.050320670942279,2027
+"Boston, MA",JetBlue Airways,Pre-COVID,9.686406460296096,1486
+"Boston, MA",Southwest Airlines,During-COVID,-8.92159559834938,1454
+"Boston, MA",Southwest Airlines,Post-COVID,2.2764900662251657,2416
+"Boston, MA",Southwest Airlines,Pre-COVID,-3.0518891687657432,1985
+"Boston, MA",Spirit Airlines,Post-COVID,9.626984126984127,378
+"Bozeman, MT",Southwest Airlines,Post-COVID,-14.222222222222221,9
+"Buffalo, NY",Southwest Airlines,During-COVID,-14.952380952380953,21
+"Buffalo, NY",Southwest Airlines,Post-COVID,-3.2083333333333335,240
+"Buffalo, NY",Southwest Airlines,Pre-COVID,-11.173913043478262,23
+"Burbank, CA",Southwest Airlines,During-COVID,4.509316770186335,322
+"Burbank, CA",Southwest Airlines,Post-COVID,0.7477592829705506,781
+"Burbank, CA",Southwest Airlines,Pre-COVID,1.855072463768116,69
+"Charleston, SC",Southwest Airlines,During-COVID,-0.15035238841033674,1277
+"Charleston, SC",Southwest Airlines,Post-COVID,1.554011653966831,2231
+"Charleston, SC",Southwest Airlines,Pre-COVID,5.323308270676692,931
+"Charlotte, NC",American Airlines,During-COVID,-2.838938053097345,2825
+"Charlotte, NC",American Airlines,Post-COVID,12.516792071939806,5449
+"Charlotte, NC",American Airlines,Pre-COVID,6.454755784061697,3890
+"Charlotte, NC",Southwest Airlines,During-COVID,2.6859813084112147,535
+"Charlotte, NC",Southwest Airlines,Post-COVID,4.132951289398281,1745
+"Charlotte, NC",Southwest Airlines,Pre-COVID,6.688323090430202,1139
+"Charlotte, NC",Spirit Airlines,Post-COVID,13.291666666666666,96
+"Chicago, IL",American Airlines,During-COVID,4.152496626180837,741
+"Chicago, IL",American Airlines,Post-COVID,18.772727272727273,946
+"Chicago, IL",American Airlines,Pre-COVID,19.31597222222222,288
+"Chicago, IL",Frontier Airlines,During-COVID,-22.0,1
+"Chicago, IL",Frontier Airlines,Post-COVID,23.040983606557376,122
+"Chicago, IL",Frontier Airlines,Pre-COVID,22.439393939393938,66
+"Chicago, IL",Southwest Airlines,During-COVID,-0.7379152348224514,4365
+"Chicago, IL",Southwest Airlines,Post-COVID,4.402146727803252,9596
+"Chicago, IL",Southwest Airlines,Pre-COVID,4.392811020232458,4646
+"Chicago, IL",Spirit Airlines,Post-COVID,-5.0,1
+"Chicago, IL",United Airlines,During-COVID,0.6214285714285714,560
+"Chicago, IL",United Airlines,Post-COVID,4.768573868488471,2342
+"Chicago, IL",United Airlines,Pre-COVID,5.346094946401225,1306
+"Cincinnati, OH",Southwest Airlines,Post-COVID,4.938095238095238,210
+"Cleveland, OH",Southwest Airlines,During-COVID,-4.517133956386293,1284
+"Cleveland, OH",Southwest Airlines,Post-COVID,-1.5096890491212258,2219
+"Cleveland, OH",Southwest Airlines,Pre-COVID,-2.0240896358543417,1785
+"Columbus, OH",Southwest Airlines,During-COVID,-5.261633919338159,967
+"Columbus, OH",Southwest Airlines,Post-COVID,-1.891670459717797,2197
+"Columbus, OH",Southwest Airlines,Pre-COVID,-0.7368421052631579,1425
+"Dallas, TX",Southwest Airlines,During-COVID,3.5703456640388116,3298
+"Dallas, TX",Southwest Airlines,Post-COVID,5.886415265788278,6603
+"Dallas, TX",Southwest Airlines,Pre-COVID,5.146760822843107,3257
+"Dallas–Fort Worth, TX",American Airlines,During-COVID,1.0068449197860962,4675
+"Dallas–Fort Worth, TX",American Airlines,Post-COVID,15.498256163559832,8315
+"Dallas–Fort Worth, TX",American Airlines,Pre-COVID,9.171990650564862,5134
+"Dallas–Fort Worth, TX",Frontier Airlines,During-COVID,1.0694444444444444,72
+"Dallas–Fort Worth, TX",Frontier Airlines,Post-COVID,19.384615384615383,65
+"Dallas–Fort Worth, TX",Spirit Airlines,Post-COVID,18.656,125
+"Denver, CO",Frontier Airlines,During-COVID,-6.5889423076923075,416
+"Denver, CO",Frontier Airlines,Post-COVID,8.281879194630873,1043
+"Denver, CO",Frontier Airlines,Pre-COVID,9.570762052877138,643
+"Denver, CO",Southwest Airlines,During-COVID,4.412884333821376,3415
+"Denver, CO",Southwest Airlines,Post-COVID,9.543175050932456,6381
+"Denver, CO",Southwest Airlines,Pre-COVID,4.231302339012417,3463
+"Denver, CO",United Airlines,During-COVID,-0.5598086124401914,627
+"Denver, CO",United Airlines,Post-COVID,5.538486416558862,3092
+"Denver, CO",United Airlines,Pre-COVID,0.740072202166065,277
+"Detroit, MI",Delta Airlines,During-COVID,-2.125128205128205,1950
+"Detroit, MI",Delta Airlines,Post-COVID,-0.24248447204968945,4025
+"Detroit, MI",Delta Airlines,Pre-COVID,-2.2608187134502926,3420
+"Detroit, MI",Southwest Airlines,During-COVID,-5.373641304347826,1472
+"Detroit, MI",Southwest Airlines,Post-COVID,0.48446917014371815,2157
+"Detroit, MI",Southwest Airlines,Pre-COVID,0.8553583168967784,1521
+"Detroit, MI",Spirit Airlines,Post-COVID,8.90967741935484,155
+"Fort Lauderdale, FL",JetBlue Airways,During-COVID,8.848214285714286,448
+"Fort Lauderdale, FL",JetBlue Airways,Post-COVID,21.348484848484848,726
+"Fort Lauderdale, FL",JetBlue Airways,Pre-COVID,19.361783439490445,785
+"Fort Lauderdale, FL",Southwest Airlines,During-COVID,-4.3826487845766975,2386
+"Fort Lauderdale, FL",Southwest Airlines,Post-COVID,6.453057708871662,3483
+"Fort Lauderdale, FL",Southwest Airlines,Pre-COVID,0.38703634319970026,2669
+"Fort Lauderdale, FL",Spirit Airlines,During-COVID,0.6444073455759599,599
+"Fort Lauderdale, FL",Spirit Airlines,Post-COVID,15.622801302931595,1535
+"Fort Lauderdale, FL",Spirit Airlines,Pre-COVID,-2.5783132530120483,83
+"Fort Myers, FL",Frontier Airlines,Pre-COVID,1.6573426573426573,143
+"Fort Myers, FL",Southwest Airlines,During-COVID,1.7467889908256882,545
+"Fort Myers, FL",Southwest Airlines,Post-COVID,5.651436993367723,1357
+"Fort Myers, FL",Southwest Airlines,Pre-COVID,2.17687074829932,147
+"Fort Myers, FL",Spirit Airlines,Post-COVID,4.67,100
+"Grand Rapids, MI",Southwest Airlines,Post-COVID,16.82758620689655,29
+"Greenville, SC",Southwest Airlines,Post-COVID,-0.8672985781990521,211
+"Hartford, CT",Southwest Airlines,During-COVID,-2.77734375,256
+"Hartford, CT",Southwest Airlines,Post-COVID,2.4940855323020927,1099
+"Hayden, CO",Southwest Airlines,Post-COVID,7.514285714285714,35
+"Houston, TX",Southwest Airlines,During-COVID,2.776219512195122,3280
+"Houston, TX",Southwest Airlines,Post-COVID,2.711750470556601,7438
+"Houston, TX",Southwest Airlines,Pre-COVID,3.811915483200554,2887
+"Houston, TX",United Airlines,During-COVID,1.6375266524520256,469
+"Houston, TX",United Airlines,Post-COVID,10.051857585139318,2584
+"Houston, TX",United Airlines,Pre-COVID,4.8204158790170135,1058
+"Jacksonville, FL",Southwest Airlines,During-COVID,-0.9370725034199726,1462
+"Jacksonville, FL",Southwest Airlines,Post-COVID,0.5215465163109142,2483
+"Jacksonville, FL",Southwest Airlines,Pre-COVID,1.0799595141700404,1976
+"Kansas City, MO",Southwest Airlines,During-COVID,-2.056390977443609,1862
+"Kansas City, MO",Southwest Airlines,Post-COVID,2.429953106682298,3412
+"Kansas City, MO",Southwest Airlines,Pre-COVID,0.2087378640776699,2472
+"Key West, FL",Delta Airlines,Post-COVID,-3.3333333333333335,3
+"Las Vegas, NV",Delta Airlines,Pre-COVID,-4.0,2
+"Las Vegas, NV",Frontier Airlines,During-COVID,4.863829787234042,235
+"Las Vegas, NV",Frontier Airlines,Post-COVID,11.393406593406594,455
+"Las Vegas, NV",Frontier Airlines,Pre-COVID,4.947368421052632,399
+"Las Vegas, NV",Southwest Airlines,During-COVID,4.4878987898789875,1818
+"Las Vegas, NV",Southwest Airlines,Post-COVID,7.3620819713351775,3977
+"Las Vegas, NV",Southwest Airlines,Pre-COVID,2.184419014084507,2272
+"Las Vegas, NV",Spirit Airlines,During-COVID,-3.9675324675324677,462
+"Las Vegas, NV",Spirit Airlines,Post-COVID,9.105936073059361,1095
+"Las Vegas, NV",Spirit Airlines,Pre-COVID,-10.853658536585366,82
+"Long Beach, CA",Southwest Airlines,Post-COVID,-1.369620253164557,790
+"Long Island, NY",Southwest Airlines,During-COVID,25.901408450704224,213
+"Long Island, NY",Southwest Airlines,Post-COVID,4.323275862068965,464
+"Los Angeles, CA",American Airlines,During-COVID,5.4582743988684586,707
+"Los Angeles, CA",American Airlines,Post-COVID,19.518859245630175,1087
+"Los Angeles, CA",American Airlines,Pre-COVID,1.2812702527543747,1543
+"Los Angeles, CA",Delta Airlines,During-COVID,-5.446611909650924,974
+"Los Angeles, CA",Delta Airlines,Post-COVID,-1.9815668202764978,2387
+"Los Angeles, CA",Delta Airlines,Pre-COVID,-1.4507299270072993,1096
+"Los Angeles, CA",Southwest Airlines,During-COVID,-2.127402135231317,1405
+"Los Angeles, CA",Southwest Airlines,Post-COVID,4.0733549083063645,1854
+"Los Angeles, CA",Southwest Airlines,Pre-COVID,-0.18186610437532946,1897
+"Los Angeles, CA",Spirit Airlines,During-COVID,0.9939393939393939,495
+"Los Angeles, CA",Spirit Airlines,Post-COVID,4.069258809234508,823
+"Madison, WI",Delta Airlines,Pre-COVID,28.0,2
+"Miami, FL",American Airlines,During-COVID,4.5,1094
+"Miami, FL",American Airlines,Post-COVID,22.176332551123032,2983
+"Miami, FL",American Airlines,Pre-COVID,10.836094158674804,1147
+"Miami, FL",Southwest Airlines,During-COVID,0.5726351351351351,592
+"Miami, FL",Southwest Airlines,Post-COVID,8.82670744138634,1962
+"Miami, FL",Spirit Airlines,Post-COVID,13.233962264150943,265
+"Milwaukee, WI",Southwest Airlines,During-COVID,-4.019216555801922,1353
+"Milwaukee, WI",Southwest Airlines,Post-COVID,-0.673568281938326,2270
+"Milwaukee, WI",Southwest Airlines,Pre-COVID,-0.9794871794871794,1365
+"Minneapolis, MN",Delta Airlines,During-COVID,0.45622119815668205,868
+"Minneapolis, MN",Delta Airlines,Post-COVID,1.2100118483412323,3376
+"Minneapolis, MN",Delta Airlines,Pre-COVID,-3.690310322989234,1579
+"Minneapolis, MN",Southwest Airlines,During-COVID,-3.5889908256880734,545
+"Minneapolis, MN",Southwest Airlines,Post-COVID,0.611062335381914,1139
+"Minneapolis, MN",Southwest Airlines,Pre-COVID,-0.52046783625731,855
+"Myrtle Beach, SC",Southwest Airlines,During-COVID,-0.08783783783783784,444
+"Myrtle Beach, SC",Southwest Airlines,Post-COVID,2.049469964664311,1981
+"New Orleans, LA",Southwest Airlines,During-COVID,0.08621700879765395,1705
+"New Orleans, LA",Southwest Airlines,Post-COVID,4.448559670781893,3402
+"New Orleans, LA",Southwest Airlines,Pre-COVID,2.4488854727132976,2602
+"New Orleans, LA",Spirit Airlines,During-COVID,-4.791666666666667,96
+"New Orleans, LA",Spirit Airlines,Post-COVID,6.012658227848101,79
+"New Orleans, LA",Spirit Airlines,Pre-COVID,-9.771084337349398,83
+"New York, NY",American Airlines,During-COVID,2.3394495412844036,109
+"New York, NY",American Airlines,Post-COVID,16.09257142857143,875
+"New York, NY",American Airlines,Pre-COVID,-7.0,1
+"New York, NY",Delta Airlines,During-COVID,-6.114285714285714,70
+"New York, NY",Delta Airlines,Post-COVID,10.360493827160493,405
+"New York, NY",JetBlue Airways,During-COVID,8.361623616236162,271
+"New York, NY",JetBlue Airways,Post-COVID,14.070576540755468,3018
+"New York, NY",Southwest Airlines,During-COVID,-9.386928860613072,1729
+"New York, NY",Southwest Airlines,Post-COVID,1.7056878306878307,4536
+"New York, NY",Southwest Airlines,Pre-COVID,-0.2963940193491645,2274
+"New York, NY",Spirit Airlines,During-COVID,14.138075313807532,239
+"New York, NY",Spirit Airlines,Post-COVID,-1.9728033472803348,478
+"Newark, NJ",Southwest Airlines,Pre-COVID,0.23790322580645162,744
+"Newark, NJ",Spirit Airlines,During-COVID,0.5128205128205128,273
+"Newark, NJ",Spirit Airlines,Post-COVID,8.383603238866396,988
+"Newark, NJ",United Airlines,During-COVID,4.322185061315496,897
+"Newark, NJ",United Airlines,Post-COVID,10.467462832074093,4103
+"Newark, NJ",United Airlines,Pre-COVID,9.952751817237798,1926
+"Norfolk, VA",Southwest Airlines,During-COVID,7.923766816143497,446
+"Norfolk, VA",Southwest Airlines,Post-COVID,5.803571428571429,1176
+"Norfolk, VA",Southwest Airlines,Pre-COVID,-2.38,50
+"Oakland, CA",Southwest Airlines,During-COVID,-0.0521415270018622,537
+"Oakland, CA",Southwest Airlines,Post-COVID,-2.638253638253638,481
+"Oakland, CA",Southwest Airlines,Pre-COVID,5.82054794520548,730
+"Oklahoma City, OK",Southwest Airlines,During-COVID,-7.315950920245399,326
+"Oklahoma City, OK",Southwest Airlines,Post-COVID,5.496688741721854,302
+"Oklahoma City, OK",Southwest Airlines,Pre-COVID,3.7866666666666666,75
+"Omaha, NE",Southwest Airlines,During-COVID,-8.733333333333333,45
+"Omaha, NE",Southwest Airlines,Post-COVID,-3.0272108843537415,294
+"Omaha, NE",Southwest Airlines,Pre-COVID,12.192307692307692,26
+"Ontario, CA",Southwest Airlines,Post-COVID,-0.6096256684491979,187
+"Orlando, FL",Frontier Airlines,During-COVID,3.7225,400
+"Orlando, FL",Frontier Airlines,Post-COVID,16.775956284153004,366
+"Orlando, FL",Frontier Airlines,Pre-COVID,14.624737945492662,477
+"Orlando, FL",Southwest Airlines,During-COVID,0.13678581480439064,3553
+"Orlando, FL",Southwest Airlines,Post-COVID,8.972491349480968,5780
+"Orlando, FL",Southwest Airlines,Pre-COVID,5.02262180974478,3448
+"Orlando, FL",Spirit Airlines,During-COVID,7.157643312101911,628
+"Orlando, FL",Spirit Airlines,Post-COVID,12.099840255591054,2504
+"Orlando, FL",Spirit Airlines,Pre-COVID,-0.5853658536585366,82
+"Panama City, FL",Southwest Airlines,During-COVID,0.12156663275686673,1966
+"Panama City, FL",Southwest Airlines,Post-COVID,0.8066184074457083,2901
+"Panama City, FL",Southwest Airlines,Pre-COVID,1.7357673267326732,1616
+"Pensacola, FL",Southwest Airlines,During-COVID,-2.3252762430939224,1448
+"Pensacola, FL",Southwest Airlines,Post-COVID,-0.9489326077856843,2389
+"Pensacola, FL",Southwest Airlines,Pre-COVID,-0.06844626967830253,1461
+"Philadelphia, PA",American Airlines,During-COVID,-8.568058076225045,551
+"Philadelphia, PA",American Airlines,Post-COVID,12.071808510638299,2256
+"Philadelphia, PA",American Airlines,Pre-COVID,3.05359394703657,1586
+"Philadelphia, PA",Frontier Airlines,During-COVID,1.2722772277227723,202
+"Philadelphia, PA",Frontier Airlines,Post-COVID,7.416819012797075,547
+"Philadelphia, PA",Frontier Airlines,Pre-COVID,4.601286173633441,311
+"Philadelphia, PA",Southwest Airlines,During-COVID,-7.214703968770332,1537
+"Philadelphia, PA",Southwest Airlines,Post-COVID,1.0829675153643548,2278
+"Philadelphia, PA",Southwest Airlines,Pre-COVID,1.9854682454251884,1858
+"Philadelphia, PA",Spirit Airlines,Post-COVID,1.6948571428571428,875
+"Phoenix, AZ",American Airlines,During-COVID,-11.37203166226913,379
+"Phoenix, AZ",American Airlines,Post-COVID,10.357876712328768,1168
+"Phoenix, AZ",Frontier Airlines,Post-COVID,-8.573770491803279,183
+"Phoenix, AZ",Southwest Airlines,During-COVID,3.727131782945736,2580
+"Phoenix, AZ",Southwest Airlines,Post-COVID,4.520223752151463,4648
+"Phoenix, AZ",Southwest Airlines,Pre-COVID,3.3681679055531264,2287
+"Pittsburgh, PA",Southwest Airlines,During-COVID,-3.9190751445086707,1211
+"Pittsburgh, PA",Southwest Airlines,Post-COVID,-0.9254658385093167,2254
+"Pittsburgh, PA",Southwest Airlines,Pre-COVID,-1.2945859872611465,1256
+"Portland, ME",Southwest Airlines,Post-COVID,-0.1,120
+"Portland, OR",Alaska Airlines,Post-COVID,-3.3904109589041096,292
+"Raleigh-Durham, NC",American Airlines,During-COVID,5.992307692307692,130
+"Raleigh-Durham, NC",Delta Airlines,Pre-COVID,-18.0,1
+"Raleigh-Durham, NC",Southwest Airlines,During-COVID,-3.533290653008963,1562
+"Raleigh-Durham, NC",Southwest Airlines,Post-COVID,0.7012858555885262,3033
+"Raleigh-Durham, NC",Southwest Airlines,Pre-COVID,1.0461819844535893,2187
+"Richmond, VA",Southwest Airlines,Post-COVID,-3.1619047619047618,210
+"Sacramento, CA",Southwest Airlines,Post-COVID,3.90188679245283,265
+"Sacramento, CA",Southwest Airlines,Pre-COVID,1.2333333333333334,30
+"Salt Lake City, UT",Delta Airlines,During-COVID,1.416184971098266,1038
+"Salt Lake City, UT",Delta Airlines,Post-COVID,0.5457777777777778,2250
+"Salt Lake City, UT",Delta Airlines,Pre-COVID,-2.4078478002378123,841
+"Salt Lake City, UT",Southwest Airlines,During-COVID,2.365979381443299,194
+"Salt Lake City, UT",Southwest Airlines,Post-COVID,3.7557603686635943,217
+"San Antonio, TX",Southwest Airlines,During-COVID,-0.20195439739413681,1228
+"San Antonio, TX",Southwest Airlines,Post-COVID,0.47513812154696133,2172
+"San Antonio, TX",Southwest Airlines,Pre-COVID,-0.26859205776173284,1385
+"San Diego, CA",Southwest Airlines,During-COVID,-1.1073446327683616,885
+"San Diego, CA",Southwest Airlines,Post-COVID,6.046138415245737,1994
+"San Diego, CA",Southwest Airlines,Pre-COVID,2.040247678018576,1292
+"San Francisco, CA",Alaska Airlines,Pre-COVID,10.35344827586207,580
+"San Francisco, CA",United Airlines,During-COVID,-3.006622516556291,302
+"San Francisco, CA",United Airlines,Post-COVID,4.00554528650647,1623
+"San Francisco, CA",United Airlines,Pre-COVID,5.066615620214395,1306
+"San Jose, CA",Southwest Airlines,During-COVID,1.6780487804878048,410
+"San Jose, CA",Southwest Airlines,Post-COVID,2.083606557377049,610
+"San Jose, CA",Southwest Airlines,Pre-COVID,2.022222222222222,180
+"San Juan, PR",Southwest Airlines,During-COVID,3.606060606060606,33
+"San Juan, PR",Southwest Airlines,Post-COVID,15.878787878787879,132
+"Santa Ana, CA",Southwest Airlines,During-COVID,7.832041343669251,387
+"Santa Ana, CA",Southwest Airlines,Post-COVID,12.853515625,512
+"Sarasota, FL",Southwest Airlines,During-COVID,-0.8901098901098901,637
+"Sarasota, FL",Southwest Airlines,Post-COVID,2.4834801762114536,1816
+"Savannah, GA",Southwest Airlines,During-COVID,11.849112426035504,338
+"Savannah, GA",Southwest Airlines,Post-COVID,5.113345521023766,1641
+"Seattle, WA",Alaska Airlines,During-COVID,-3.4316608996539792,1156
+"Seattle, WA",Alaska Airlines,Post-COVID,3.9800081599347203,2451
+"Seattle, WA",Alaska Airlines,Pre-COVID,0.5241248817407758,1057
+"Seattle, WA",Delta Airlines,During-COVID,-0.5627450980392157,510
+"Seattle, WA",Delta Airlines,Post-COVID,-0.27389705882352944,1088
+"Seattle, WA",Delta Airlines,Pre-COVID,1.5219364599092284,661
+"Seattle, WA",Southwest Airlines,During-COVID,0.25,124
+"Seattle, WA",Southwest Airlines,Post-COVID,18.03846153846154,26
+"Seattle, WA",Southwest Airlines,Pre-COVID,7.2377622377622375,143
+"St Louis, MO",Southwest Airlines,During-COVID,-4.117315573770492,1952
+"St Louis, MO",Southwest Airlines,Post-COVID,1.3196185286103541,3670
+"St Louis, MO",Southwest Airlines,Pre-COVID,4.535197204193709,2003
+"Tampa, FL",Frontier Airlines,Pre-COVID,7.7,20
+"Tampa, FL",Southwest Airlines,During-COVID,0.03371783496007098,2254
+"Tampa, FL",Southwest Airlines,Post-COVID,6.902348035988589,4557
+"Tampa, FL",Southwest Airlines,Pre-COVID,2.49292371418709,2897
+"Tampa, FL",Spirit Airlines,During-COVID,-1.803030303030303,132
+"Tampa, FL",Spirit Airlines,Post-COVID,4.157894736842105,19
+"Tampa, FL",Spirit Airlines,Pre-COVID,-9.263157894736842,57
+"Trenton, NJ",Frontier Airlines,Pre-COVID,30.724770642201836,218
+"Valparaiso, FL",Southwest Airlines,During-COVID,5.262295081967213,671
+"Valparaiso, FL",Southwest Airlines,Post-COVID,-5.51521137890162,2531
+"Washington, DC",American Airlines,During-COVID,-3.225806451612903,62
+"Washington, DC",American Airlines,Post-COVID,8.669971671388103,706
+"Washington, DC",American Airlines,Pre-COVID,4.0265486725663715,113
+"Washington, DC",Southwest Airlines,During-COVID,-8.212489158716393,2306
+"Washington, DC",Southwest Airlines,Post-COVID,2.0286532951289398,4188
+"Washington, DC",Southwest Airlines,Pre-COVID,0.4588607594936709,2528
+"Washington, DC",United Airlines,During-COVID,-3.6535433070866143,127
+"Washington, DC",United Airlines,Post-COVID,7.434765154556403,2491
+"Washington, DC",United Airlines,Pre-COVID,9.439060205580029,681
+"West Palm Beach, FL",Southwest Airlines,During-COVID,-1.0,32

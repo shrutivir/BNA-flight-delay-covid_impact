@@ -7,7 +7,7 @@ This project seeks to analyze flight delays, arrivals, departures, and cancellat
 - Analyze correlations between airport traffic and flight delays during these phases.
 By addressing these questions, the project aims to uncover key insights into how COVID-19 impacted flight operations at BNA , providing a better understanding of airline performance and passenger experience.
 
-## Table of Contents
+### Table of Contents
 
 - PowerBI Dashboard
 - Motivation
@@ -20,13 +20,13 @@ By addressing these questions, the project aims to uncover key insights into how
 
 ### PowerBI Dashboard
 
-Link:
+Link: https://app.powerbi.com/groups/me/reports/c97e6ea9-54d6-49b6-bfa0-d3d25c7080ff/a3ed8c1b71e4092f2fa1?experience=power-bi
 
-PPT Presentation Link:
+PPT Presentation Link: https://www.canva.com/design/DAG7zIyDyxk/AnYfH9jc1jW5QRp0ha62Jg/edit
 
 ------
 
-###Motivation
+### Motivation
 
 The COVID-19 pandemic caused unprecedented disruptions in the airline industry, leading to fluctuating flight schedules, delays, and cancellations.
 This project is motivated by both professional and analytical interests:
@@ -71,4 +71,5 @@ The project aims to combine practical industry experience with data analysis ski
 - Additional airport and city,State mapping data created in-house
 
 - ------
-Conclusion----
+### Conclusion----
+This analysis shows that flight cancellations at Nashville International Airport during COVID were primarily driven by external disruptions rather than operational delays, supported by a strong negative correlation between delays and cancellations. As flight volumes recovered post-COVID, average delays increased but largely remained within the 15-minute on-time performance threshold. Among airlines, Delta demonstrated the most consistent operational performance across all COVID phases. Overall, BNA showed a strong recovery and continues to maintain reliable on-time performance despite increased traffic.
