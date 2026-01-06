@@ -9,18 +9,17 @@ By addressing these questions, the project aims to uncover key insights into how
 
 ### Table of Contents
 
-- PowerBI Dashboard
-- Motivation
-- Questions
-- Data Cleaning & Normalization
-- Technologies Used
-- Data Sources
-
----
+- [PowerBI Dashboard](#powerbi-dashboard)
+- [Motivation](#motivation)
+- [Questions](#questions)
+- [Data Cleaning & Normalization](#data-cleaning--normalization)
+- [Technologies Used](#technologies-used)
+- [Data Sources](#data-sources)
+------
 
 ### PowerBI Dashboard
 
-Link: https://app.powerbi.com/groups/me/reports/c97e6ea9-54d6-49b6-bfa0-d3d25c7080ff/a3ed8c1b71e4092f2fa1?experience=power-bi
+Link: https://app.powerbi.com/view?r=eyJrIjoiMThmZGM0NjctOTExOS00ZmRmLTg3MjItNjBjYTM1MjE0NGY5IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 PPT Presentation Link: https://www.canva.com/design/DAG7zIyDyxk/AnYfH9jc1jW5QRp0ha62Jg/edit
 
@@ -70,6 +69,6 @@ The project aims to combine practical industry experience with data analysis ski
 - Airline classification references for low-cost vs. major carriers  
 - Additional airport and city,State mapping data created in-house
 
-- ------
-### Conclusion----
+--------
+### Conclusion 
 This analysis shows that flight cancellations at Nashville International Airport during COVID were primarily driven by external disruptions rather than operational delays, supported by a strong negative correlation between delays and cancellations. As flight volumes recovered post-COVID, average delays increased but largely remained within the 15-minute on-time performance threshold. Among airlines, Delta demonstrated the most consistent operational performance across all COVID phases. Overall, BNA showed a strong recovery and continues to maintain reliable on-time performance despite increased traffic.
