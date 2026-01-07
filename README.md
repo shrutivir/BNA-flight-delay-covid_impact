@@ -1,6 +1,6 @@
 # BNA-flight-delay-covid_impact
 This capstone project analyzes flight performance at Nashville International Airport (BNA), focusing on departure delays, arrival delays, and cancellations across major U.S. airlines. The goal is to understand how airline operations at BNA were affected before, during, and after the COVID-19 pandemic, and how recovery patterns varied by airline.
-This project seeks to analyze flight delays, arrivals, departures, and cancellations at **Nashville International Airport (BNA)** and compare trends across three phases: **Pre-COVID (2018-2019), During COVID(2020-2021, and Post-COVID(2022-Jul,2025)**. Specifically, it will:
+This project seeks to analyze flight delays, arrivals, departures, and cancellations at **Nashville International Airport (BNA)** and compare trends across three phases: **Pre-COVID (2018-2019), During COVID(2020-2021, and Post-COVID(2022-Dec,2024)**. Specifically, it will:
 - Examine patterns in departure and arrival delays.
 - Evaluate cancellation trends across airlines.
 - Compare the performance of major airlines and low-cost carriers.
@@ -21,7 +21,7 @@ By addressing these questions, the project aims to uncover key insights into how
 
 Link: https://app.powerbi.com/view?r=eyJrIjoiMThmZGM0NjctOTExOS00ZmRmLTg3MjItNjBjYTM1MjE0NGY5IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
-PPT Presentation Link: https://www.canva.com/design/DAG7zIyDyxk/AnYfH9jc1jW5QRp0ha62Jg/edit
+Presentation Link: https://www.canva.com/design/DAG7zIyDyxk/AnYfH9jc1jW5QRp0ha62Jg/edit
 
 ------
 
@@ -49,13 +49,12 @@ The project aims to combine practical industry experience with data analysis ski
 - Columns removed. 
 - BOM (Byte Order Mark) issues in the CSV files were handled using Python (`utf-8-sig` encoding).  
 - A new column was created mapping **airport codes** to their corresponding **city and state** for better readability.  
-- All three datasets (Departures, Arrivals, and Cancellations) were combined in a single Jupyter notebook for unified analysis.
 
 -------
 
 ### Technologies Used
 - Excel/Power Query - Data Cleaning/Combining Csv files
-- Python / Pandas – Data cleaning, exploration, and analysis  
+- Python / Pandas – Data cleaning and analysis  
 - Power BI – Interactive dashboard creation  
 - Canva – Presentation slides and visuals  
 - Git – Version control and repository management  
